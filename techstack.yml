@@ -2,7 +2,7 @@ repo_name: hamzatrq/Todo-vuejs
 report_id: 6363c724461aa41bde7190e964f9f7ec
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T18:00:53+00:00'
+timestamp: '2024-01-05T08:11:16+00:00'
 requested_by: hamzatrq
 provider: github
 branch: master
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hamzatrq/Todo-vuejs
   detection_source: Repo Metadata
